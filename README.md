@@ -1,2 +1,3 @@
-# lissajous
-Implementation of Lissajous Curves in Pygame
+# Lissajous Curves with Pygame
+
+Experiments with generating Lissajous curves.
